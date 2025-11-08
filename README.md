@@ -198,3 +198,29 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 # Trademarks
 
 MICROSOFT, the Microsoft Logo, MAKECODE, and MAKECODE ARCADE are registered trademarks of Microsoft Corporation. They can only be used for the purposes described in and in accordance with Microsoft’s Trademark and Brand guidelines published at https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general.aspx. If the use is not covered in Microsoft’s published guidelines or you are not sure, please consult your legal counsel or MakeCode team (makecode@microsoft.com).
+
+
+
+> Open this page at [https://modrinth1.github.io/pxt-arcade/](https://modrinth1.github.io/pxt-arcade/)
+
+## Use as Extension
+
+This repository can be added as an **extension** in MakeCode.
+
+* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
+* click on **New Project**
+* click on **Extensions** under the gearwheel menu
+* search for **https://github.com/modrinth1/pxt-arcade** and import
+
+## Edit this project
+
+To edit this repository in MakeCode.
+
+* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
+* click on **Import** then click on **Import URL**
+* paste **https://github.com/modrinth1/pxt-arcade** and click import
+
+#### Metadata (used for search, rendering)
+
+* for PXT/arcade
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
